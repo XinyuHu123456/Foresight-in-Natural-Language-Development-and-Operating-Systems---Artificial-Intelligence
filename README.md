@@ -13,3 +13,4 @@ This is our prognostication on the future of programming languages and natural l
 
 - 并且操作系统可以做成人工智能操作系统，只要说话或者看手势进行操作与运算
 
+![](https://s1.vika.cn/space/2023/05/02/a9bda49814674010b21e473d733c9cf1)
